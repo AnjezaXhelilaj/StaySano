@@ -1,4 +1,5 @@
 For my mobile programming project, I have developed an application named StaySano. The name combines the English word “Stay” with “Sano”, which is Latin for “healthy”, reflecting the app's core purpose: Stay Healthy.
+
 StaySano is designed to digitalize healthcare services, allowing users to access essential medical resources directly from the comfort of their homes.
 The app eliminates the need to physically visit hospitals or clinics for basic tasks like booking appointments, ordering lab tests, or purchasing medicines. 
 In addition, it promotes health awareness by providing access to a curated selection of health-related articles and the latest updates in the medical field.
